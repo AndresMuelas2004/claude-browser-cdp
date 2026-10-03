@@ -1,0 +1,13 @@
+{
+  "defaultLane": "main",
+  "lanes": [
+    {
+      "name": "main",
+      "port": 9222,
+      "profileDir": "%LOCALAPPDATA%\\browser-cdp\\profiles\\main",
+      "account": ""
+    }
+  ],
+  "virtualDesktops": false,
+  "chromePath": ""
+}

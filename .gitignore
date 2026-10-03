@@ -1,0 +1,12 @@
+# Tab pins that cdp.js leaves when run without CDP_PIN_DIR
+.cdp-*.json
+
+# Logs and local test leftovers
+*.log
+*.tmp
+node_modules/
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
